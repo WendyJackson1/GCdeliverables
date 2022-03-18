@@ -1,0 +1,15 @@
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.AssemblyReference.cache
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.AssemblyInfo.cs
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.exe
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.deps.json
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.runtimeconfig.json
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.dll
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\ref\Deliverable1.dll
+C:\Gcwork\Deliverable1\Deliverable1\bin\Debug\net6.0\Deliverable1.pdb
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.dll
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\ref\Deliverable1.dll
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.pdb
+C:\Gcwork\Deliverable1\Deliverable1\obj\Debug\net6.0\Deliverable1.genruntimeconfig.cache
